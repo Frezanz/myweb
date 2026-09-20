@@ -1,9 +1,12 @@
-# NOCTURNE
+# Aperture
 
-A mobile-first experimental interface built as a polished UI/UX piece.
+A cinematic, mobile-first interactive landing page built with Next.js.
 
-Stack: Next.js, React, TypeScript, Tailwind-ready architecture, Framer Motion, Three.js / React Three Fiber, GLSL-ready visual layer.
+## Run
 
-The concept and content are intentionally independent of personal projects: the focus is the experience itself — luxurious, interactive, futuristic, dynamic and fluid.
+```bash
+npm install
+npm run dev
+```
 
-Designed for static deployment on Netlify.
+The site is designed for static export and Netlify deployment.

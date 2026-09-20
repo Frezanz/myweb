@@ -1,10 +1,9 @@
-import type { Metadata } from "next";
 import "./globals.css";
+import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "daylight — make today count",
-  description: "A quiet, useful space for focus, tasks and thoughts.",
-  viewport: "width=device-width, initial-scale=1, viewport-fit=cover",
+  title: "Aperture — Make presence visible.",
+  description: "A cinematic interactive experience for the web.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
