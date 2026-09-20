@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "NOCTURNE — an interactive space",
-  description: "A fluid digital experience.",
+  title: "daylight — make today count",
+  description: "A quiet, useful space for focus, tasks and thoughts.",
   viewport: "width=device-width, initial-scale=1, viewport-fit=cover",
 };
 
