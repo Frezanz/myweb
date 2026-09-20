@@ -2,8 +2,8 @@ import "./globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Aperture — Make presence visible.",
-  description: "A cinematic interactive experience for the web.",
+  title: "Frezanz — Beyond the Visible",
+  description: "A cinematic, spiritual 3D web experience by Frezanz.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
