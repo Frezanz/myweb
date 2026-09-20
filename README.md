@@ -1,12 +1,7 @@
-# Aperture
+# Frezanz — World
 
-A cinematic, mobile-first interactive landing page built with Next.js.
+A single-screen interactive 3D visual experience built with Next.js, React Three Fiber and Three.js.
 
-## Run
+Run with npm install, then npm run dev. Build with npm run build.
 
-```bash
-npm install
-npm run dev
-```
-
-The site is designed for static export and Netlify deployment.
+The project is configured for static export and Netlify.
